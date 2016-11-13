@@ -1,6 +1,7 @@
+# Added Notes, By Ben Woodfield
+#
 # If your Epilipetic....Dont bother
 # Seriously this thing should have an Epilepsy Warning
-# I nearly started brain-spasming
 #
 #
 #-------------------------------------------------------------------------------
