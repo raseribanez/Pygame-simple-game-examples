@@ -4,16 +4,7 @@
 # Seriously this thing should have an Epilepsy Warning
 #
 #
-#-------------------------------------------------------------------------------
-# Name:        Frenetic
-# Purpose:
 #
-# Author:      Johann
-#
-# Created:     13/02/2011
-# Copyright:   (c) Johann 2011
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
 #!/usr/bin/env python
 
 import pygame
